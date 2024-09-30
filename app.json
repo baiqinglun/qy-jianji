@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "StickerSmash1",
+    "slug": "StickerSmash1",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
